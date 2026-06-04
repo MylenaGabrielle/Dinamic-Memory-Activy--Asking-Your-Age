@@ -1,1 +1,2 @@
 # Dinamic-Memory-Activy--Asking-Your-Age
+First of all, using "new" as an interger we create memory and store the user's age. We ask to the user to input your age and the program display the age that the user input. After displaying that, the allocated memory is released using "delete" and the pointers is set to "nutptr".
